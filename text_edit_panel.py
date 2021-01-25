@@ -25,7 +25,7 @@ bl_info = {
     "location": "3D View > Side Bar > Item > Text",
     "description": "",
     "warning": "",
-    "wiki_url": "https://github.com/todashuta/blender-addon-text-edit-panel/issues/wiki",
+    "wiki_url": "https://github.com/todashuta/blender-addon-text-edit-panel/wiki",
     "tracker_url": "https://github.com/todashuta/blender-addon-text-edit-panel/issues",
     "category": "Text"
 }
